@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @marosvolgyinora
 - 🌳 I'm studying nature conservation engineering
-- 💻 I'm also interested in web development (beginner)
+- 💻 I'm also interested in computer science (beginner)
 - 🐈‍ I'm a cat person
 
 <!---
